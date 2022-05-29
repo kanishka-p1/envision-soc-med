@@ -7,7 +7,7 @@ This project is created using-
 
 
 
-To run this project on your loacl systems:
+To run this project on your local systems:
 install node.js
 ### `npm install`
 this will install all the dependencies in your system
