@@ -8,7 +8,7 @@ This project is created using-
 
 
 To run this project on your loacl systems:
-# install node.js
+install node.js
 ### `npm install`
 this will install all the dependencies in your system
 
